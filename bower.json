@@ -16,14 +16,14 @@
     "package.json"
   ],
   "dependencies": {
-    "purescript-control": "^5.0.0",
-    "purescript-invariant": "^5.0.0",
-    "purescript-maybe": "^5.0.0",
-    "purescript-prelude": "^5.0.0"
+    "purescript-control": "https://github.com/working-group-purescript-es/purescript-control.git#es-modules",
+    "purescript-invariant": "https://github.com/working-group-purescript-es/purescript-invariant.git#es-modules",
+    "purescript-maybe": "https://github.com/working-group-purescript-es/purescript-maybe.git#es-modules",
+    "purescript-prelude": "https://github.com/working-group-purescript-es/purescript-prelude.git#es-modules"
   },
   "devDependencies": {
-    "purescript-assert": "^5.0.0",
-    "purescript-console": "^5.0.0",
-    "purescript-effect": "^3.0.0"
+    "purescript-assert": "https://github.com/working-group-purescript-es/purescript-assert.git#es-modules",
+    "purescript-console": "https://github.com/working-group-purescript-es/purescript-console.git#es-modules",
+    "purescript-effect": "https://github.com/working-group-purescript-es/purescript-effect.git#es-modules"
   }
 }
